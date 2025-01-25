@@ -19,3 +19,7 @@ Adicionalmente, se optó por utilizar IntelliJ IDEA para verificar la solución 
 ![captura3](images/03Lab1.png)
 
 ## Parte III
+
+1) ¿Hay una mejor forma de trabajar con git para no tener conflictos?
+
+La mejor forma de evitar conflictos en Git es mantener las ramas actualizadas con los últimos cambios del main (usando git fetch y git merge o git rebase), hacer commits despues de terminar los cambios, y comunicarse con el equipo para no trabajar en las mismas partes del código.
