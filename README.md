@@ -1,3 +1,10 @@
+# Integrantes
+Santiago Botero
+
+Ricardo Ayala
+
+# Respuestas:
+
 # CVDS laboratorio 01
 El objetivo de este laboratorio es analizar el comportamiento de GIT cuando dos usuarios realizan commits simultáneos en el mismo archivo.
 
